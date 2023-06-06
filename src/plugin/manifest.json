@@ -1,0 +1,49 @@
+{
+    "id": "76ee6657-6bfd-4acd-a278-588d84f1a00d",
+    "version": "1.0.0",
+    "platform": "all",
+    "arch": "all",
+    "name": "手机应用安装包格式扩展",
+    "logo": "/logo.png",
+    "devTools": true,
+    "keywords": [
+        "Android",
+        "iOS",
+        "iPhone",
+        "iPad",
+        "Apple",
+        "apk",
+        "Android Application Package",
+        "ipa",
+        "iPhone Application",
+        "APP",
+        "APP Package",
+        "Application",
+        "Application Package",
+        "Mobile APP",
+        "Mobile Application",
+        "安卓",
+        "苹果",
+        "手机应用",
+        "手机软件",
+        "手机程序"
+    ],
+    "preview": {
+        "apk": {
+            "thumbnail": {
+                "path": "thumbnail.js"
+            },
+            "viewer": {
+                "path": "viewer.html"
+            }
+        },
+        "ipa": {
+            "thumbnail": {
+                "path": "thumbnail.js"
+            },
+            "viewer": {
+                "path": "viewer.html"
+            }
+        }
+    }
+}
