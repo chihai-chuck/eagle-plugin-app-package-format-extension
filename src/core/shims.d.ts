@@ -1,1 +1,1 @@
-declare module "app-info-parser";
+declare module "@chihai-chuck/app-info-parser";

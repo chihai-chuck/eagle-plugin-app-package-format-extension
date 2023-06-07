@@ -1,4 +1,4 @@
-import AppInfoParser from "app-info-parser";
+import AppInfoParser from "@chihai-chuck/app-info-parser";
 
 export const THEME_COLOR = {
     light: ["#f8f9fb", "#e3e5e7", "#a0a1a4", "#323339"],
