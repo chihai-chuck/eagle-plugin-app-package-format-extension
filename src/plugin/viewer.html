@@ -12,13 +12,16 @@
     <meta name="fragment" content="!">
     <meta name="author" content="chuck">
     <title>手机应用安装包文件预览</title>
+    <script src="./lib/vue.min.js"></script>
     <!-- inject:css -->
     <link rel="stylesheet" href="./viewer.less">
     <!-- endinject -->
 </head>
 
 <body>
-    <p class="output"></p>
+    <div id="app">
+        <p class="output">{{output}}</p>
+    </div>
     <!-- inject:js -->
     <script src="./viewer.js"></script>
     <!-- endinject -->
